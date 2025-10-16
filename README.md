@@ -32,7 +32,7 @@ Just run the script corresponding to the experiment and dataset you want. For in
 
 * Run out-of-distribution detection on all dataset pairs:
 ```bash
-
+sh redout.sh
 ```
 
 
